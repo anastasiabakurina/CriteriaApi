@@ -7,4 +7,4 @@ Example:
 .eq("name", "Мария").and().eq("surname", "Морская").build();
 .endWith("surname", "ов").or().eq("gender", "female").build();
 
-Run tests to check how this works.
+Run tests to check how it works.
